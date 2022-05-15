@@ -1,11 +1,11 @@
 ![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 
 <p align="center">
-<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-ffdd67?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-ffdd67?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
-<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-ffdd67?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-ffdd67?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-ffdd67?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-ffdd67?&style=for-the-badge&logo=twitter&logoColor=707070" height=25></a>
+<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-ffdd67?style=for-the-badge&logo=Codewars&logoColor=707070" height=25></a>
+<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-ffdd67?style=for-the-badge&logo=gmail&logoColor=707070" height=25></a>
+<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-ffdd67?style=for-the-badge&logo=linkedin&logoColor=707070" height=25></a>
+<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-ffdd67?style=for-the-badge&logo=googledrive&logoColor=707070" height=25></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Country detail app</h2>
+<h3 align="center" color="707070">Country detail app</h2>
 <div align="center" >  
 <a href='https://country-switcher-app.netlify.app/'>
 <img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="322px" width="100%" />
@@ -38,7 +38,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Fress Catering Services.</h2>
+<h3 align="center" color="707070">Fress Catering Services.</h2>
 <div align="center" >  
 <a href='#'>
 <img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
@@ -73,16 +73,16 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=beblicarl&bg_color=FFFFFF00&color=F8D866&line=ffdd67&point=fa8b00&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-ffdd67?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-ffdd67?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-ffdd67?style=for-the-badge&logo=html5&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/CSS3-ffdd67?style=for-the-badge&logo=css3&logoColor=707070" height=25>
 <img src="https://img.shields.io/badge/JavaScript-ffdd67?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-ffdd67?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Node.js-ffdd67?style=for-the-badge&logo=nodedotjs&logoColor=707070" height=25>
 <img src="https://img.shields.io/badge/React-ffdd67?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/Express.js-ffdd67?style=for-the-badge&logo=express&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/MongoDB-ffdd67?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Figma-ffdd67?style=for-the-badge&logo=figma&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/firebase-ffdd67?style=for-the-badge&logo=firebase&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/jQuery-ffdd67?style=for-the-badge&logo=jquery&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-ffdd67?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-ffdd67?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Express.js-ffdd67?style=for-the-badge&logo=express&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/MongoDB-ffdd67?style=for-the-badge&logo=mongodb&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/Figma-ffdd67?style=for-the-badge&logo=figma&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/firebase-ffdd67?style=for-the-badge&logo=firebase&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/jQuery-ffdd67?style=for-the-badge&logo=jquery&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-ffdd67?style=for-the-badge&logo=visual%20studio&logoColor=707070" height=25>
+<img src="https://img.shields.io/badge/GIT-ffdd67?style=for-the-badge&logo=git&logoColor=707070" height=25>
 </p>
