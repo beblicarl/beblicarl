@@ -1,11 +1,11 @@
 ![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 
 <p align="center">
-<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
-<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-ffdd67?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-ffdd67?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
+<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-ffdd67?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-ffdd67?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-ffdd67?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="hhttps://country-switcher-app.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ffdd67"/>
 </a>
 </p>
 <p><strong>React.js, CSS3</strong> - A  React application. You are able to find details about countries by clicking in the flags or searching for them by name. Details include population, currency, language etx.</p>
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://fress-catering-services.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ffdd67"/>
 </a>
 </p>
 <p><strong>React.js, CSS3</strong> - Fress catering services. A web app built in React.js for a client showcasing the menu of delicious cuisines being sold</p>
@@ -70,19 +70,19 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=beblicarl&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=beblicarl&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=beblicarl&bg_color=FFFFFF00&color=F8D866&line=ffdd67&point=fa8b00&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/Express.js-D14836?style=for-the-badge&logo=express&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Figma-D14836?style=for-the-badge&logo=figma&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-ffdd67?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-ffdd67?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-ffdd67?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-ffdd67?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-ffdd67?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/Express.js-ffdd67?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-ffdd67?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Figma-ffdd67?style=for-the-badge&logo=figma&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/firebase-ffdd67?style=for-the-badge&logo=firebase&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/jQuery-ffdd67?style=for-the-badge&logo=jquery&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-ffdd67?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-ffdd67?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
