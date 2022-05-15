@@ -1,7 +1,7 @@
 ![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 
 <p align="center">
-<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@samsaryonjr-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
 <a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
