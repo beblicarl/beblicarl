@@ -12,17 +12,42 @@
    I am Carl Bebli, currently a freelance Software Developer. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. Find out more about me & feel free to connect with me here:
 </p>
 
+<br>
+<!--What i am learning-->
+
+## 🌱 I am currently learning
+
+<br>
+
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+<!--What i am planning to learn -->
+
+## 🏫 I am planning to learning
+
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+<br>
+
 <!--Project Section -->
 
-<h2 align="center">Highlighted Projects </h2>
+# 📽️ Projects
+
+<br>
+
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 <h3 align="center" color="707070">Country detail app</h2>
+<br>
+<br>
 <div align="center" >  
 <a href='https://country-switcher-app.netlify.app/'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="322px" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="270px" width="100%" />
 </a>
 <br>
 <br>
@@ -39,9 +64,10 @@
 </td>
 <td width="50%">
 <h3 align="center" color="707070">Fress Catering Services.</h2>
+<br>
 <div align="center" >  
 <a href='#'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="322px" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="270px" width="100%" />
 </a>
 <br>
 <br>
@@ -58,21 +84,14 @@
 </table>
 
 </div>
-  <!--Analytics & Data-->
-<h2 align="center">Data & Analytics</h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=beblicarl&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00">
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=beblicarl&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
-</table>
-</div>
-<img src="https://activity-graph.herokuapp.com/graph?username=beblicarl&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true&title_color=">
-<h2 align="center">Technical Skills</h2>
-<p align="center">
+<br>
+
+<!--Technical Skills-->
+
+# 💼 Tech Stack
+
+<br>
+<p >
 <img src="https://img.shields.io/badge/HTML5-ffdd67?style=for-the-badge&logo=html5&logoColor=707070" height=25>
 <img src="https://img.shields.io/badge/CSS3-ffdd67?style=for-the-badge&logo=css3&logoColor=707070" height=25>
 <img src="https://img.shields.io/badge/JavaScript-ffdd67?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
@@ -86,3 +105,29 @@
 <img src="https://img.shields.io/badge/Visual_Studio-ffdd67?style=for-the-badge&logo=visual%20studio&logoColor=707070" height=25>
 <img src="https://img.shields.io/badge/GIT-ffdd67?style=for-the-badge&logo=git&logoColor=707070" height=25>
 </p>
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+<br>
+
+# 👇 My Latest Blog Posts
+
+<!-- DEV.TO:START -->
+
+- [Create React App ](https://dev.to/flt_s3nyo/create-react-app-ip9)
+- [First time with Node.js](https://dev.to/flt_s3nyo/first-time-with-node-js-2b6l)
+- [Learning how to learn](https://dev.to/flt_s3nyo/learning-how-to-learn-khc)
+- [Why Next.js ?](https://dev.to/flt_s3nyo/why-nextjs--3pao)
+<!-- DEV.T0:END -->
+
+<br>
+  <!--Analytics & Data-->
+
+# 📈 GitHub Stats
+
+<br>
+<a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=beblicarl&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="beblicarl's GitHub stats" /></a> <a href="http://www.github.com/beblicarl"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=beblicarl&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+<a href="http://www.github.com/beblicarl"><img height="250em" src="https://activity-graph.herokuapp.com/graph?username=beblicarl&bg_color=22272e&color=3382ed&line=ffffff&point=3382ed&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/beblicarl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beblicarl&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
