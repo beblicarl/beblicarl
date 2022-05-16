@@ -38,14 +38,16 @@
 
 <br>
 
-<div align="center">
+<div style = "text-align : center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="707070">Country detail app</h2>
+<br>
+
+<h3 style= "text-align : center ; margin-bottom : -14px" ;>Country detail app</h3>
 <br>
 <br>
-<div align="center" >  
+<div style= "align : center" >  
 <a href='https://country-switcher-app.netlify.app/'>
 <img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="270px" width="100%" />
 </a>
@@ -61,11 +63,12 @@
 </p>
 <p><strong>React.js, CSS3</strong> - A  React application. You are able to find details about countries by clicking in the flags or searching for them by name. Details include population, currency, language etx.</p>
 </div>
+
 </td>
-<td width="50%">
-<h3 align="center" color="707070">Fress Catering Services.</h2>
+<td width="50%" >
+<h3 style = "align : center ;  color : 707070">Fress Catering Services.</h3>
 <br>
-<div align="center" >  
+<div style = "align : center" >  
 <a href='#'>
 <img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="270px" width="100%" />
 </a>
