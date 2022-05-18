@@ -44,12 +44,12 @@
 <td width="50%">
 <br>
 
-<h3 style= "text-align : center ; margin-bottom : -14px" ;>Country detail app</h3>
+<h3 style= "; margin-bottom : -14px" ;>Country detail app</h3>
 <br>
 <br>
 <div style= "text-align : center" >  
 <a href='https://country-switcher-app.netlify.app/'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="270px" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="auto" width="100%" />
 </a>
 <br>
 <br>
@@ -66,11 +66,11 @@
 
 </td>
 <td width="50%" >
-<h3 style = "text-align : center ;  color : 707070">Fress Catering Services.</h3>
+<h3 style = "">Fress Catering Services.</h3>
 <br>
-<div style = "text-align : center" >  
+<div>  
 <a href='#'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="270px" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="auto" width="100%" />
 </a>
 <br>
 <br>
