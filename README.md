@@ -49,7 +49,7 @@
 <br>
 <div style= "text-align : center" >  
 <a href='https://country-switcher-app.netlify.app/'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="auto" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Country detail app" height="auto" width="auto" />
 </a>
 <br>
 <br>
@@ -70,7 +70,7 @@
 <br>
 <div>  
 <a href='#'>
-<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="auto" width="100%" />
+<img src="https://github.com/beblicarl/beblicarl/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="Fress" height="auto" width="auto" />
 </a>
 <br>
 <br>
