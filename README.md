@@ -44,7 +44,7 @@
 <td width="50%">
 <br>
 
-<h3 style= "; margin-bottom : -14px" ;>Country detail app</h3>
+<h3 style= "text-align: center; margin-bottom : -14px" ;>Country detail app</h3>
 <br>
 <br>
 <div style= "text-align : center" >  
@@ -66,7 +66,7 @@
 
 </td>
 <td width="50%" >
-<h3 style = "">Fress Catering Services.</h3>
+<h3 style = "text-align : center">Fress Catering Services.</h3>
 <br>
 <div>  
 <a href='#'>
