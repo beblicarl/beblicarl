@@ -1,4 +1,5 @@
-![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
+<!--- ![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1") -->
+[![@beblicarl's Holopin board](https://holopin.me/beblicarl)](https://holopin.io/@beblicarl)
 
 <p align="center">
 <a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-ffdd67?&style=for-the-badge&logo=twitter&logoColor=707070" height=25></a>
@@ -124,10 +125,7 @@
 <!-- DEV.T0:END -->
 <br>
    <!--Hacktoberfest badges -->
-# Hacktoberfest
-[![@beblicarl's Holopin board](https://holopin.me/beblicarl)](https://holopin.io/@beblicarl)
-   
-<br>
+
   <!--Analytics & Data-->
 
 # 📈 GitHub Stats
