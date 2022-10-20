@@ -122,7 +122,11 @@
 - [Learning how to learn](https://dev.to/flt_s3nyo/learning-how-to-learn-khc)
 - [Why Next.js ?](https://dev.to/flt_s3nyo/why-nextjs--3pao)
 <!-- DEV.T0:END -->
-
+<br>
+   <!--Hacktoberfest badges -->
+# Hacktoberfest
+[![@beblicarl's Holopin board](https://holopin.me/beblicarl)](https://holopin.io/@beblicarl)
+   
 <br>
   <!--Analytics & Data-->
 
