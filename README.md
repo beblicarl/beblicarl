@@ -1,4 +1,4 @@
-[alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/beblicarl/beblicarl/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 <!-- [![@beblicarl's Holopin board](https://holopin.me/beblicarl)](https://holopin.io/@beblicarl) -->
 
 <p align="center">
